@@ -1,0 +1,696 @@
+@media (max-width:1220px) {
+    .home-body {
+        width: 1200px;
+    }
+    
+    .home-header{
+        width: 1200px;
+    }
+
+    .gradient {
+        width: 1200px;
+    }
+
+    .home-main {
+        width: 1200px;
+    }
+
+    .home-section1 img {
+        width: 1200px;
+        margin-left: -5px;
+    }
+
+    .home-section1-div1 i {
+        margin-top: 50px;
+        margin-left: -250px;
+    }
+
+    .home-section1-div1 h4 {
+        margin-top: 50px;
+        margin-left: -250px;
+    }
+
+    .home-section-div2 {
+        margin-left: 250px;
+    }
+
+    .home-section3 {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .home-section4-div2 {
+        margin-left: -130px;
+    }
+    
+    .home-section5 {
+        margin-left: 100px;
+    }
+
+    .navi h2 {
+        margin-left: 100px;
+        margin-top: 500px;
+    }
+
+    .wine h2 {
+        margin-top: 500px;
+        margin-left: 100px;
+    }
+
+    .moto h2 {
+        margin-top: 800px;
+        margin-left: -350px;
+    }
+
+    .turists {
+        margin-left: -900px;
+        margin-top: 300px;
+    }
+
+    .turists img {
+        width: 350px;
+    }
+
+    .turists h2 {
+        margin-left: -370px;
+        margin-top: 800px;
+    }
+
+    .cave {
+        margin-top: 300px;
+        margin-left: 50px;
+    }
+
+    .cave h2 {
+        margin-left: -370px;
+        margin-top: 800px; 
+    }
+
+    .main-footer {
+        width: 1200px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .deels-body {
+        width: 1200px;
+    }
+
+    .main-deels {
+        width: 1200px;
+    }
+
+    .racha img {
+        width: 1200px;
+        margin-left: -105px;
+    }
+
+    .racha-div {
+        margin-left: -200px;
+        margin-top: -100px;
+    }
+
+    .text-about-racha p {
+        width: 900px;
+    }
+
+    .box-about-tour {
+        margin-top: 200px;
+        margin-left: 150px;
+    }
+
+    .racha2 {
+        margin-left: -650px;
+    }
+
+    .article-about-racha {
+        margin-left: 150px;
+    }
+
+    .price {
+        margin-top: 400px;
+        margin-left: -600px;
+    }
+
+    .get-in-touch {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 1000px;
+    }
+
+    .Resources-body {
+        width: 1200px;
+    }
+
+    .Resources-header {
+        width: 1200px;
+        margin-left: -5px;
+    }
+
+   .Resources-section1 { 
+    margin-top: -600px;   
+    margin-left: 50px;
+   }
+
+   .Resources-footer-div1 {
+    margin-left: -50px;
+    margin-top: 100px;
+   }
+
+   #winandali {
+    margin-left: -150px;
+   }
+
+   #georgia {
+    margin-left: 700px;
+   }
+
+}
+
+@media (max-width:800px) {
+    .home-body {
+        width: 780px;
+    }
+
+    .home-header{
+        width: 780px;
+    }
+
+    .home-nav li {
+        display: none;
+    }
+
+    .home-nav i {
+        display: block;
+        margin-top: 30px;
+        font-size: 30px;
+    }
+
+    .gradient {
+        width: 780px;
+    }
+
+    .home-main {
+        width: 780px;
+    }
+
+    .home-section1 {
+        width: 780px;
+    }
+
+    .home-section1 img {
+        width: 780px;
+    }
+
+    .home-section1 i  {
+        display: none;
+    }
+    
+    .home-section1 h4  {
+        display: none;
+    }
+
+    .home-section2 {
+        width: 780px;
+    }
+
+    .home-section-div2  p{
+         display: none;
+    }
+
+    .home-section3 img {
+       padding: 20px; 
+       border-radius: 50px;
+    }
+
+    .home-section4-div2 p{
+        width: 500px;
+        margin-left: 300px;
+        font-size: 17px;
+    }
+
+    .home-section5 h2 {
+        display: none;
+    }
+
+    .navi img {
+        width: 350px;
+        height: 550px;
+        border-radius: 70px;
+        margin-left: -120px;
+    }
+
+    .wine img {
+        width: 300px;
+        height: 200px;
+    }
+
+    .moto img {
+        width: 300px;
+        height: 200px;
+        margin-top: -50px;
+    }
+
+    .turists img {
+        width: 300px;
+        height: 200px;
+        margin-left: 250px;
+    }
+
+    .cave img {
+        width: 300px;
+        height: 200px;
+        margin-left: -50px;
+    }
+
+    .main-footer {  
+        width: 780px;     
+    }
+
+    .main-footer-div a {
+        display: none;
+    }
+
+    .main-footer-div i {
+        display: block;
+        font-size: 35px;
+    }
+
+    .deels-body {
+        width: 780px;
+    }
+    
+    .gradient1{
+        width: 780px;
+    }
+
+    .main-deels {
+        width: 780px;
+    }
+
+    .racha img {
+        width: 780px;
+    }
+
+    .racha-div {
+        margin-left: -400px;
+    }
+
+    .text-about-racha p {
+        width: 600px;
+        font-size: 17px;
+    }
+
+    .box-about-tour {
+        margin-left: -20px;
+    }
+
+    .racha2 {
+        margin-left: -800px;
+    }
+
+    .article-about-racha h1{
+        margin-left: -50px;
+    }
+
+    .article-about-racha-images {
+        margin-left: -120px;
+    }
+
+    .price {
+        margin-left: -800px; 
+    }
+
+    .get-in-touch{
+        width: 600px;
+        margin-left: 50px;
+    }
+
+    .get-in-touch h1 {
+        display: none;
+    }
+
+    .get-in-touch h3 {
+        display: none;
+    }
+    
+    .Explore-sec1-div1 {
+        line-height: 55px;
+        text-decoration: underline;
+    }
+
+    .camp-navi h2  {
+        margin-top: 100px;
+    }
+
+    .button {
+        margin-top: -200px;
+        margin-left: 500px;
+    }
+
+    .pricebox {
+        margin-left: -800px;
+        margin-top: 650px;
+    }
+
+    .Resources-body {
+        width: 780px;
+    }
+
+    .Resources-header {
+        width: 780px;
+    }
+
+    .Resources-nav-li {
+        display: none;
+    }
+
+    .Resources-nav i {
+        margin-top: 15px;
+        font-size: 35px;
+        display: inline-block;
+    }
+
+    .Resources-section1 h1 {
+        margin-top: -150px;
+    }
+
+    .Resources-section1 h3 {
+        margin-top: -50px;
+    }
+
+    .Resources-section1 img {
+        display: none;
+    }
+
+    .Resources-section1 h4 {
+        display: none;
+    }
+
+    .Resources-footer-div1{
+        margin-left: -100px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 300px;
+    }
+
+    .Resources-footer-div1 h1 {
+        font-size: 12px;
+    }
+
+    #winandali {
+        position: relative;
+        width: 300px;
+        height: 350px;
+        margin-top: -90px;
+        margin-left: -300px;
+    }
+
+    #georgia  h2{
+        margin-left: -300px;
+        margin-top: 200px;
+        position: absolute;
+    }
+
+    #georgia h3 {
+        margin-top: 250px;
+        margin-left: -425px;
+    }
+
+    .Resources-body svg {
+        width: 600px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .home-body {
+        width: 480px;
+    }
+
+    .home-header{
+        width: 480px;
+    }
+
+    .home-nav i {
+        margin-left: 100px;
+    }
+
+    hr {
+        display: none;
+    }
+    
+    .gradient {
+        width: 480px;
+    }
+
+    .home-main {
+        width: 480px;
+    }
+
+    .home-section1 {
+       width: 480px;
+    }
+
+    .home-section1 img {
+        width: 480px;
+    }
+
+    .home-section1-div1 h1 {
+        font-size: 95px;
+        font-weight: 900;
+        margin-top: 150px;
+    }
+
+    .home-section1-div1 h2 {
+        font-size: 55px;
+        font-weight: 900;
+        margin-top: 100px;
+    }
+
+    .home-section2 {
+        display: none;
+    }
+
+    .home-section3 {
+        margin-left: 45px;
+    }
+
+    .home-section4 {
+        margin-top: -100px;
+    }
+
+    .home-section4-div2 p {
+        width: 350px;
+        margin-left: 200px;
+        padding: 50px;
+    }
+
+    .home-section5-div1 {
+        width: 480px;
+        display: none;
+    }
+
+
+    .main-footer {
+        width: 480px;
+    }
+
+    .main-footer-i {
+        display: flex;
+        flex-direction: row;
+        margin-top: 200px;
+        margin-left: -200px;
+    }
+
+    .deels-body {
+        width: 480px;
+    }
+
+    .main-deels {
+        width: 480px;
+    }
+
+    .racha img {
+        width: 480px;
+    }
+
+    .racha-div {
+        margin-left: -550px;
+    }
+
+    .text-about-racha p {
+        width: 450px;
+        margin-left: -75px;
+    }
+
+    .box-about-tour {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        height: 400px;
+    }
+
+    .drive {
+       margin-left: 15px;
+    }
+
+    .feedbacks {
+        margin-left: 100px;
+    }
+
+    .line {
+        transform: rotate(90deg);
+    }
+
+    .racha2 img {
+        width: 300px;
+    }
+
+    .article-about-racha{
+        width: 480px;
+        display: none;
+    }
+
+    .article-about-racha-images {
+        display: flex;
+        flex-direction: column;
+        margin-left: 5px;
+    }
+
+    .price {
+        width: 480px;
+    }
+
+    .price1 {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        height: 600px;
+    }
+
+    .price2 {
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        height: 600px;
+    }
+
+    .get-in-touch{
+        width: 250px;
+        margin-left: 150px;
+    }
+
+    .get-in-touch img {
+       display: none;
+    }
+
+    .get-in-touch button {
+        margin-right: 40px;
+    }
+
+    .Explore-sec1-div1 ul {
+        display: flex;
+        flex-direction: column;
+        line-height: 55px;
+    }
+
+    .Explore-sec2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Explore-sec2-div1 img {
+        width: 300px;
+        height: 450px;
+    }
+    
+    .camp-navi  h2 {
+        display: none;
+    }
+
+    .camp-navi img {
+        margin-top: 50px;
+    }
+
+    .button {
+        margin-top: 100px;
+        margin-left: 100px;
+        width: 150px;
+    }
+
+    .pricebox{
+        width: 400px;
+        height: 400px;
+        margin-left: -800px;
+    }
+
+    .Resources-body {
+        width: 480px;
+    }
+
+    .Resources-header {
+        width: 480px;
+    }
+
+    .Resources-nav {
+        width: 480px;
+    }
+
+    .Resources-header svg {
+        width: 480px;
+    }
+
+    .Resources-section1 h1 {
+        font-size: 95px;
+        font-weight: 900;
+        margin-top: -250px;
+        margin-bottom: 50px;
+    }
+
+    .Resources-section1 h3 {
+        font-size: 55px;
+        font-weight: 900;
+    }
+
+    .Resources-footer-div1  {
+        width: 480px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Resources-footer-div1 h1:hover {
+        transform: scale(1.0);
+    }
+
+     #winandali{
+        width: 200px;
+        height: 300px;
+        position: relative;
+        border-radius: 25px;
+        margin-left: -175px;
+        margin-right: 25px;
+        transition: 1s;
+    }
+
+    #winandali:hover {
+        transform: scale(1.03);
+    }
+
+    #georgia{
+        position: absolute;
+        margin-left: 450px;
+        margin-top: -200px;
+        font-size: 17px;
+        font-weight: 900;
+        color: aliceblue;
+    } 
+    
+    .Resources-body svg {
+        display: none;
+    }
+
+}
